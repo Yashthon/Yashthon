@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashthon
 - 👀 I’m interested in Programming languages.
 - 🌱 I’m currently doing Masters in Computer Science from MIT World Peace University
-- 📫 How to reach me ... You can find me on Instagram @whoyash, twitter @ItsYashP99, 
+- 📫 How to reach me ... You can find me on Instagram @whoyash, twitter @ItsYashP99, <br>
 - Linkedin https://www.linkedin.com/in/YashPrajapati99 Email yashnitinpprajapati@gmail.com
