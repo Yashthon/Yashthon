@@ -4,4 +4,4 @@
 - 📫 How to reach me ... You can find me on Instagram @whoyash
 - Linkedin https://www.linkedin.com/in/YashPrajapati99 
 - Email yashnitinpprajapati@gmail.com
-- My Portfolio http://localhost:4173/YASH_PORTFOLIO/
+- My Portfolio https://yashthon.github.io/YASH_PORTFOLIO/
